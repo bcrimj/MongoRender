@@ -2,7 +2,7 @@
   "name": "ckMongoTest",
   "version": "1.0.0",
   "description": "CKs Express Mongo Test on Render",
-  "main": "testmongo.js",
+  "main": "testmongo2.js",
   "repository": "https://github.com/ckorpio/MongoTest",
   "author": "CK",
   "license": "MIT",
